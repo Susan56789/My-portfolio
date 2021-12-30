@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Soduko",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "https://github.com",
+        "previewUrl": "https://github.com",
+        "featured": true
+    },
+    {
+        "name": "E-commerce Store",
+        "stack": {
+            "name": "React",
+            "iconClasses": "fab fa-react"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "https://github.com",
+        "previewUrl": "https://github.com",
+        "featured": true
+    },
+    {
+        "name": "Algorithm Visualization App",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "https://github.com",
+        "previewUrl": "https://github.com",
+        "featured": true
+    },
+    {
+        "name": "Time Tracking CLI App",
+        "stack": {
+            "name": "Node.js",
+            "iconClasses": "fab fa-node-js"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "https://github.com",
+        "previewUrl": "https://github.com",
+        "featured": true
+    }
+]
