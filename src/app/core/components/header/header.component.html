@@ -1,0 +1,23 @@
+<div class="d-flex min-vh-10 w-100 justify-content-center pb-3 pt-3 pr-4 pl-4">
+    <div class="d-flex justify-content-start" *ngIf="bio$ | async as bio" routerLink="/">
+        <h2 class="font-weight-bold">{{bio.firstName}}</h2>
+        <h2 class="font-weight-light">{{bio.lastName}}</h2>
+    </div>
+    <div class="d-none d-md-flex flex-grow-1 justify-content-end align-items-start">
+        <button type="button" class="ml-2 mr-2 btn btn-outline-dark border-0 font-weight-bold"
+            *ngFor="let item of menuItems" [routerLink]="(isHome$ | async) ? item.homePath : item.pagePath"
+            [fragment]="(isHome$ | async) ? item.fragment : ''">{{item.title}}</button>
+    </div>
+    <div class="d-flex d-md-none justify-content-end flex-grow-1">
+        <div ngbDropdown class="d-inline-block" display="dynamic" container="body">
+            <button class="btn btn-outline-dark border-0" ngbDropdownToggle>
+                <i class="fas fa-lg fa-bars"></i>
+            </button>
+            <div ngbDropdownMenu class="dropdown-menu dropdown-menu-right">
+                <button ngbDropdownItem *ngFor="let item of menuItems"
+                    [routerLink]="(isHome$ | async) ? item.homePath : item.pagePath"
+                    [fragment]="(isHome$ | async) ? item.fragment : ''">{{item.title}}</button>
+            </div>
+        </div>
+    </div>
+</div>

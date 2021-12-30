@@ -1,0 +1,155 @@
+.container{
+    width: 100%;
+    background: #fff;
+    border-radius: 6px;
+    padding: 20px 60px 30px 40px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  }
+  .container .content{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .container .content .left-side{
+    display:flex;
+    flex-direction: column;
+    width: 30%;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    position: relative;
+  }
+  .content .left-side::before{
+    content: '';
+    position: absolute;
+    height: 70%;
+    width: 2px;
+    right: -15px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #afafb6;
+  }
+  
+  .content .left-side .details{
+    margin: 14px;
+    text-align: center;
+  }
+  .content .left-side .details i{
+    font-size: 30px;
+    color: #3e2093;
+    margin-bottom: 10px;
+  }
+  .content .left-side .details .topic{
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .content .left-side .details .text-one,
+  .content .left-side .details .text-two{
+    font-size: 14px;
+    color: #afafb6;
+  }
+  .container .content .right-side{
+    width: 75%;
+    margin-left: 75px;
+    margin-top: 75px;
+    position: relative;
+    
+  }
+  .content .right-side .topic-text{
+    font-size: 23px;
+    font-weight: 600;
+    color: #3e2093;
+  }
+  .right-side .input-box{
+    height: 50px;
+    width: 100%;
+    margin: 12px 0;
+  }
+  .right-side .input-box input,
+  .right-side .input-box textarea{
+    height: 100%;
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    background: #F0F1F8;
+    border-radius: 6px;
+    padding: 0 15px;
+    resize: none;
+  }
+  .right-side .message-box{
+    min-height: 110px;
+  }
+  .right-side .input-box textarea{
+    padding-top: 6px;
+  }
+  .right-side .button{
+    display: inline-block;
+    margin-top: 12px;
+  }
+  .right-side .button input[type="button"]{
+    color: #fff;
+    font-size: 18px;
+    outline: none;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    background: #3e2093;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  .button input[type="button"]:hover{
+    background: #5029bc;
+  }
+  
+ .fab{
+     padding: 20px;
+     margin:10px;
+     font-size: 30px;
+     width: 50px;
+     text-align: center;
+     text-decoration: none;
+     
+ }
+
+ .fab:hover{
+     opacity: 0.7;
+ }
+
+
+ .fa-facebook{
+     background:blue;
+     color:white;
+ }
+
+ .fa-linkedin{
+     background-color: blue;
+     color:white;
+ }
+ .fa-youtube{
+     background-color: red;
+     color: white;
+ }
+
+ .fa-twitter{
+     background-color: #55ACEE;
+     color:white;
+ }
+ .fa-github{
+     background-color: black;
+     color: white;
+ }
+
+ .fa-tiktok{
+     background-color: black;
+     color: white;
+ }
+ .fa-instagram{
+     background-color: orange;
+     color:white;
+ }
+ .fa-whatsapp{
+     background-color: green;
+     color: white;
+ }

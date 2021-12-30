@@ -1,46 +1,46 @@
 [
     {
-        "name": "Soduko",
+        "name": "Uwezo Academy",
         "stack": {
             "name": "Angular",
             "iconClasses": "fab fa-angular"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "sourceUrl": "https://github.com",
-        "previewUrl": "https://github.com",
+        "description": "An education app project from GADS2021 community project",
+        "sourceUrl": "https://github.com/Susan56789/Uwezo-Academy",
+        "previewUrl": "https://uwezo-academu.herokuapp.com/",
         "featured": true
     },
     {
-        "name": "E-commerce Store",
+        "name": "Facebook Clone",
         "stack": {
             "name": "React",
             "iconClasses": "fab fa-react"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "sourceUrl": "https://github.com",
-        "previewUrl": "https://github.com",
+        "description": "Facebook clone app , sign in with google authentication",
+        "sourceUrl": "https://github.com/Susan56789/Facebook-Clone",
+        "previewUrl": "https://facebook-clone-jade-beta.vercel.app/",
         "featured": true
     },
     {
-        "name": "Algorithm Visualization App",
+        "name": "Recipe App",
         "stack": {
-            "name": "Angular",
-            "iconClasses": "fab fa-angular"
+            "name": "React",
+            "iconClasses": "fab fa-react"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "sourceUrl": "https://github.com",
-        "previewUrl": "https://github.com",
+        "description": "Recipe app made with react. Fetch recipe data from REST API",
+        "sourceUrl": "https://github.com/Susan56789/Recipes-101",
+        "previewUrl": "https://recipe-101.vercel.app/",
         "featured": true
     },
     {
-        "name": "Time Tracking CLI App",
+        "name": "Tour App",
         "stack": {
-            "name": "Node.js",
-            "iconClasses": "fab fa-node-js"
+            "name": "React",
+            "iconClasses": "fab fa-react"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "sourceUrl": "https://github.com",
-        "previewUrl": "https://github.com",
+        "description": "App to display various tour locations in Kenya",
+        "sourceUrl": "https://github.com/Susan56789/omna-tours",
+        "previewUrl": "https://omna-tours.netlify.app/",
         "featured": true
     }
 ]

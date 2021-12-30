@@ -1,0 +1,15 @@
+vw-20 {
+    width: 20vw;
+}
+
+.project-card {
+    width: 290px;
+    height: 250px;
+}
+
+.project-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 20ch;
+}

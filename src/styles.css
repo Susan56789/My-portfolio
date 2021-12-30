@@ -1,1 +1,27 @@
-/* You can add global styles to this file, and also import other style files */
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: 'Nunito', Arial, Verdana, Geneva, Tahoma, sans-serif;
+    background: white;
+    background-image: radial-gradient(lightgray 5.5%, transparent 0);
+    background-size: 30px 30px;
+}
+
+.vw-90 {
+    width: 90vw;
+}
+
+.vw-80 {
+    width: 80vw;
+}
+
+.vw-70 {
+    width: 80vw;
+}
+
+.min-vh-10 {
+    min-height: 10vh;
+}

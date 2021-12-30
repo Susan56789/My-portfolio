@@ -1,0 +1,37 @@
+<div *ngFor="let options of respOptions" [ngClass]="options.viewClasses"
+    class="flex-column align-items-center text-center vw-90 mx-auto">
+    <h1 [ngClass]="options.titleClasses" class="mb-5"><span class="font-weight-bold">My</span> Projects</h1>
+    <div class="d-flex vw-90"
+        [ngClass]="{'justify-content-center flex-wrap': !options.displayInColumn, 'flex-column  align-items-center': options.displayInColumn}"
+        *ngIf="projects$ | async as projects">
+        <div *ngFor="let project of projects" class="card project-card m-3"
+            [ngClass]="{'m-3': !options.displayInColumn, 'mb-3': options.displayInColumn}">
+            <div class="card-body d-flex flex-column">
+                <h5 class="card-title font-weight-bold text-left project-title" [title]="project.name">
+                    {{project.name}}
+                </h5>
+                <h6 class="card-subtitle mb-2 font-weight-lighter text-left">
+                    <i [ngClass]="project.stack.iconClasses"></i>
+                    {{project.stack.name}}
+                </h6>
+                <p class="card-text text-left">
+                    {{project.description}}
+                </p>
+                <div class="d-flex flex-row justify-content-start">
+                    <a [href]="project.previewUrl" *ngIf="project.previewUrl" class="btn btn-dark mr-2">
+                        <i class="fa-lg mr-1 far fa-eye"></i>
+                        Preview
+                    </a>
+                    <a [href]="project.sourceUrl" *ngIf="project.sourceUrl" class="btn btn-dark">
+                        <i class="fa-lg mr-1 fab fa-github-alt"></i>
+                        Source
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <button *ngIf="isHome$ | async" routerLink="/projects" class="mt-3 btn btn-dark">
+        See More Projects
+        <i class="ml-1 fas fa-angle-right"></i>
+    </button>
+</div>
