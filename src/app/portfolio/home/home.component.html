@@ -1,5 +1,8 @@
 <div class="d-flex flex-column justify-content-center align-items-center w-100" *ngIf="bio$ | async as bio">
     <div class="d-flex flex-column min-vh-95 justify-content-center align-items-center w-100">
+          
+        <img src='../../../assets/images/1608722589669.jpg' class="hero-image" />
+
         <div *ngFor="let options of respOptions" [ngClass]="options.viewClasses"
             class="flex-column justify-content-center align-items-start w-75">
             <h1 [ngClass]="options.headingClass" class="text-left">Hello, 👋. My name is <span
