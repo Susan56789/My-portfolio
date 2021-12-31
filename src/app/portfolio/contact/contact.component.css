@@ -102,6 +102,11 @@
   .button input[type="button"]:hover{
     background: #5029bc;
   }
+
+  .social-icons{
+    text-align: center;
+    justify-self: center;
+  }
   
  .fab{
      padding: 20px;

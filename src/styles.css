@@ -5,7 +5,7 @@ html, body {
 
 body {
     font-family: 'Nunito', Arial, Verdana, Geneva, Tahoma, sans-serif;
-    background: white;
+    background: azure;
     background-image: radial-gradient(lightgray 5.5%, transparent 0);
     background-size: 30px 30px;
 }
