@@ -31,16 +31,3 @@ body {
 .min-vh-10 {
     min-height: 10vh;
 }
-
-
-@media screen and (max-width: 360px) {
-    html,body{
-        width:auto;
-    }
-}
-
-@media screen and (max-width: 768px) {
- html,body{
-    width:100%;
- }   
-}
