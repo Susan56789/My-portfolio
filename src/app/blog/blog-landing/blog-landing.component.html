@@ -6,7 +6,7 @@
         <div *ngFor="let page of links$ | async" class="card post-card m-3">
 
             <div class="card-img-top waves-effect waves-block waves-dark">
-                 <img class="activator" [src]='page.image_url' alt="" />
+                 <img class="activator" [src]="page['image_url']" alt="" />
             </div>
 
             <div class="card-body d-flex flex-column">
