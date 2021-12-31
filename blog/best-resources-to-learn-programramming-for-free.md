@@ -1,5 +1,6 @@
 ---
 title: Best Resources to Learn Programming for Free
+image_url: https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
 description: blog description
 published: true
 ---
