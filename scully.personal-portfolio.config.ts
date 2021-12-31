@@ -10,12 +10,5 @@ export const config: ScullyConfig = {
         folder: "./blog"
       }
     },
-    '/user/:userId':{
-type:"json",
-userId:{
-  url:"https://jsonplaceholder.typicode.com/users",
-  property:"id"
-}
-    },
   }
 };

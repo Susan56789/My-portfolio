@@ -4,12 +4,12 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "ng build && npm run scully -- --scanRoutes",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "scully": "npx scully --",
     "scully:serve": "npx scully serve --",
-    "scully-build":"ng build && npm run scully"
+    "scully-build": "ng build && npm run scully"
   },
   "private": true,
   "dependencies": {
@@ -29,9 +29,9 @@
     "@scullyio/scully": "^1.0.0",
     "bootstrap": "^4.6.0",
     "node": "^17.3.0",
-    "npm": "^6.14.15",
+    "npm": "^8.3.0",
     "rxjs": "~7.4.0",
-    "tslib": "^2.3.0",
+    "tslib": "^2.3.1",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
