@@ -14,4 +14,6 @@ getBio(){
   return this.http.get<Bio>('../../../assets/json/bio.json');
 }
 
+
 }
+

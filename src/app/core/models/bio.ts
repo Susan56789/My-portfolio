@@ -3,4 +3,5 @@ export interface Bio {
     lastName: string;
     about: string[];
     intro: string[];
+    skills:string[];
 }

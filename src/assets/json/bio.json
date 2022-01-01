@@ -8,5 +8,14 @@
     "about": [
     "Recent bachelor's degree recepient with a background in web design and development. ",
     "Meticulous web developer with a passion for responsive website design and a firm believer in the mobile-first approach."
+    ],
+    "skills":[
+"JavaScript",
+  "React",
+  "HTML5",
+  "CSS",
+  "Github",
+  "Wordpress",
+  "Angular"
     ]
 }
