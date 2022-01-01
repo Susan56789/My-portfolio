@@ -191,6 +191,6 @@
  }
  .container .content .right-side{
    width: 100%;
-   margin-left: 0;
+   margin: 5px;
  }
 }
