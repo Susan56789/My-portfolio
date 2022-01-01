@@ -5,8 +5,8 @@
         class="d-flex vw-90">
         <div *ngFor="let page of links$ | async" class="card post-card m-3" style="width: 18rem;">
 
-            <div class="card-image ">
-                 <img class="card-img-top" [src]="page['image_url']" alt="" />
+            <div class="card-img-top bg-dark">
+                 <img [src]="page['image_url']" alt="" />
             </div>
 
             <div class="card-body d-flex flex-column">
