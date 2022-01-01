@@ -194,3 +194,32 @@
    margin: 5px;
  }
 }
+
+
+@media only screen and (max-width: 768px) {
+  .fab{
+    padding: 15px;
+    margin:8px;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    justify-content: center;
+    
+}
+
+  
+ }
+ 
+ 
+ @media only screen and (max-width: 320px) {
+  .fab{
+    padding: 10px;
+    margin:5px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    justify-content: center;
+    
+}
+
+ }
