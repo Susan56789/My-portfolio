@@ -6,7 +6,7 @@ published: true
 ---
 
 
-## Best Resources to Learn Programramming for Free
+## Best Resources to Learn Programming for Free
 
 As the tech Industry continues to grow, more people have developed an interest in web design and web development. If you're interested in learning how to code, it makes sense to start by utilizing all the free resources available online. This way, you'll discover whether or not coding is for you before making a financial commitment.
 
