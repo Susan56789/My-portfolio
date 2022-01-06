@@ -40,7 +40,7 @@ export class ProjectsComponent implements OnInit {
       { name: 'Susan Wairimu', content: 'My Projects' },
       { name: 'keywords', content: 'Front-end Developer' },
     ]);
-    this.title.setTitle('Projects');
+    this.title.setTitle('Susan Wairimu Projects');
   }
 
   ngOnInit(): void {}
