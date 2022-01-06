@@ -29,7 +29,7 @@ export class AboutComponent implements OnInit {
     private title: Title
   ) {
     this.meta.addTags([
-      { name: 'Susan Wairimu', content: 'My portfolio website' },
+      { name: 'Susan Wairimu', content: 'About Me' },
       { name: 'keywords', content: 'Front-end Developer' },
     ]);
     this.title.setTitle('Susan Wairimu');

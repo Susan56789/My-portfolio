@@ -32,7 +32,7 @@ export class HomeComponent implements OnInit {
       { name: 'Susan Wairimu', content: 'My portfolio website' },
       { name: 'keywords', content: 'Front-end Developer' },
     ]);
-    this.title.setTitle('Susan Wairimu Portfolio');
+    this.title.setTitle('Susan Wairimu');
   }
 
   ngOnInit(): void {}

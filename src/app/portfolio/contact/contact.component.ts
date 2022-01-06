@@ -9,7 +9,7 @@ import { Meta, Title } from '@angular/platform-browser';
 export class ContactComponent implements OnInit {
   constructor(private meta: Meta, private title: Title) {
     this.meta.addTags([
-      { name: 'Susan Wairimu', content: 'My portfolio website' },
+      { name: 'Susan Wairimu', content: 'Contact Details' },
       { name: 'keywords', content: 'Front-end Developer' },
     ]);
     this.title.setTitle('Susan Wairimu');
