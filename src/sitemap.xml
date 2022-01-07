@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>https://susanwairimu.netlify.app/</loc>
+      <lastmod>2022-01-07</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+   </url>
+
+<url>
+<loc>https://susanwairimu.netlify.app/projects</loc>
+<lastmod>2022-01-07</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.80</priority>
+</url>
+
+<url>
+<loc>https://susanwairimu.netlify.app/blog</loc>
+<lastmod>2022-01-07</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.80</priority>
+</url>
+
+<url>
+<loc>https://susanwairimu.netlify.app/contact</loc>
+<lastmod>2022-01-07</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.80</priority>
+</url>
+
+<url>
+<loc>https://susanwairimu.netlify.app/about</loc>
+<lastmod>2022-01-07</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.80</priority>
+</url>
+
+</urlset> 
