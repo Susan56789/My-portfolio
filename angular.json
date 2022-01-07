@@ -47,7 +47,8 @@
               "src/favicon.ico",
               "src/assets",
               "src/sitemap.xml",
-              "src/robots.txt"
+              "src/robots.txt",
+              "src/sitemap.xsl"
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
