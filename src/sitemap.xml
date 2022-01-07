@@ -1,43 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-stylesheet type="text/xsl" href="sitemap.xsl" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="sitemap.xsl" type="text/xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
     <url>
-        <loc>https://susanwairimu.netlify.app/</loc>
-        <lastmod>2022-01-07</lastmod>
-        <changefreq>weekly</changefreq>
+        <loc>http://www.alecos.it/games.php</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.alecos.it/diary_31032007.php</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.alecos.it/diary_30012007.php</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.alecos.it/diary_28082006.php</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.alecos.it/diary_26012006.php</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.alecos.it/diary_25102008.php</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.alecos.it/diary_15072007.php</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.alecos.it/diary_06062005.php</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.alecos.it/diary_04092010.php</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.alecos.it/diary.php</loc>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
 
-    <url>
-        <loc>https://susanwairimu.netlify.app/projects</loc>
-        <lastmod>2022-01-07</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.80</priority>
-    </url>
-
-    <url>
-        <loc>https://susanwairimu.netlify.app/blog</loc>
-        <lastmod>2022-01-07</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.80</priority>
-    </url>
-
-    <url>
-        <loc>https://susanwairimu.netlify.app/contact</loc>
-        <lastmod>2022-01-07</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.80</priority>
-    </url>
-
-    <url>
-        <loc>https://susanwairimu.netlify.app/about</loc>
-        <lastmod>2022-01-07</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.80</priority>
-    </url>
-
-</urlset> 
+</urlset>
