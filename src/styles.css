@@ -13,7 +13,7 @@ body {
 body {
   font-family: "Nunito", Arial, Verdana, Geneva, Tahoma, sans-serif;
   background: #fff;
-  background-image: radial-gradient(violet 5.5%, transparent 0);
+  background-image: radial-gradient(lightgrey 5.5%, transparent 0);
   background-size: 30px 30px;
 
   -webkit-animation: Animation 5s ease infinite;
