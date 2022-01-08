@@ -1,50 +1,90 @@
-*{
-    margin:0;
-    padding:0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-html, body {
-    width: 100%;
-    height: 100%;
+html,
+body {
+  width: 100%;
+  height: 100%;
 }
 
 body {
-    font-family: 'Nunito', Arial, Verdana, Geneva, Tahoma, sans-serif;
-    background: azure;
-    background-image: radial-gradient(lightgray 5.5%, transparent 0);
-    background-size: 30px 30px;
+  font-family: "Nunito", Arial, Verdana, Geneva, Tahoma, sans-serif;
+  background: #fff;
+  background-image: radial-gradient(violet 5.5%, transparent 0);
+  background-size: 30px 30px;
+
+  -webkit-animation: Animation 5s ease infinite;
+  -moz-animation: Animation 5s ease infinite;
+  animation: Animation 5s ease infinite;
+}
+
+@-webkit-keyframes Animation {
+  0% {
+    background-position: 10% 0%;
+  }
+  50% {
+    background-position: 91% 100%;
+  }
+  100% {
+    background-position: 10% 0%;
+  }
+}
+
+@-moz-keyframes Animation {
+  0% {
+    background-position: 10% 0%;
+  }
+  50% {
+    background-position: 91% 100%;
+  }
+  100% {
+    background-position: 10% 0%;
+  }
+}
+
+@keyframes Animation {
+  0% {
+    background-position: 10% 0%;
+  }
+  50% {
+    background-position: 91% 100%;
+  }
+  100% {
+    background-position: 10% 0%;
+  }
 }
 
 .vw-90 {
-    width: 90vw;
+  width: 90vw;
 }
 
 .vw-80 {
-    width: 80vw;
+  width: 80vw;
 }
 
 .vw-70 {
-    width: 80vw;
+  width: 80vw;
 }
 
 .min-vh-10 {
-    min-height: 10vh;
+  min-height: 10vh;
 }
-
 
 @media only screen and (max-width: 768px) {
- html,body{
-     width: 100%;
-     height: 100%;
- }  
- 
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+  }
 }
 
-
 @media only screen and (max-width: 320px) {
-    html,body{
-        width: 100%;
-        height: 100%;
-    }  
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+  }
 }
