@@ -1,3 +1,49 @@
-.fab{
-    color: purple;
+/* Badge */
+.badge {
+  font-size: 40px;
+}
+
+/* Colors */
+.blue {
+  color: deepskyblue;
+}
+
+.orange {
+  color: orange;
+}
+
+.gold {
+  color: gold;
+}
+
+.red {
+  color: red;
+}
+
+.purple {
+  color: purple;
+}
+
+.green {
+  color: greenyellow;
+}
+
+.crimson {
+  color: firebrick;
+}
+
+.steel {
+  color: gold;
+}
+
+.pink {
+  color: palevioletred;
+}
+
+.rebecca {
+  color: rebeccapurple;
+}
+
+.gainsboro {
+  color: orangered;
 }
