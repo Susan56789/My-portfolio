@@ -1,20 +1,12 @@
-body {
-  text-align: center;
-  position: fixed;
-  margin: 0;
-  bottom: 0;
-}
-
 span {
   color: #666;
   font-size: 15 px;
   display: block;
   text-align: center;
-  transform: translateX(-50%) translateY(-50%);
 }
 
 .fab {
-  color: #a10909;
+  color: #7e3737;
   margin: 0 3px;
   font-size: 12px;
   animation: pound 0.35s infinite alternate;
@@ -24,4 +16,12 @@ span {
   to {
     transform: scale(1.1);
   }
+}
+
+.footer {
+  clear: both;
+  position: relative;
+  bottom: 0;
+  height: 200px;
+  margin: -200px;
 }

@@ -1,7 +1,7 @@
 ---
 title: React vs Angular
 image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf6c7zX5hAfuUKEG0hxsl_rjEpMNZAQgEBsA&usqp=CAU
-description: Compare Angular vs React to over performance, maintainability, learning curve, and use cases to find out which one suits your needs better.
+description: Compare Angular vs React to find out which one suits your needs better.
 
 published: true
 ---
