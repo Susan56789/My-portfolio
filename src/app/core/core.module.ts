@@ -4,18 +4,11 @@ import { RouterModule } from '@angular/router';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { HttpClientModule } from '@angular/common/http';
 import { HeaderComponent } from './components/header/header.component';
-
+//import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
-  declarations: [
-    HeaderComponent
-  ],
-  imports: [
-    CommonModule,
-    RouterModule,
-    NgbModule,
-    HttpClientModule
-  ],
-  exports: [ HeaderComponent ]
+  declarations: [HeaderComponent],
+  imports: [CommonModule, RouterModule, NgbModule, HttpClientModule],
+  exports: [HeaderComponent],
 })
-export class CoreModule { }
+export class CoreModule {}

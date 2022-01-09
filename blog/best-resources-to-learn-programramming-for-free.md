@@ -1,16 +1,16 @@
 ---
 title: Best Resources to Learn Programming for Free
-image_url: 'https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60'
+image_url: https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60
 description: Sites to learning coding from scratch for free
+
 published: true
 ---
-
 
 ## Best Resources to Learn Programming for Free
 
 As the tech Industry continues to grow, more people have developed an interest in web design and web development. If you're interested in learning how to code, it makes sense to start by utilizing all the free resources available online. This way, you'll discover whether or not coding is for you before making a financial commitment.
 
-With so many resources on the internet, it can be overwhelming if you don't know where to begin. To help you get started, we've compiled a list of the Top 10 Free Resources for web design and development.  
+With so many resources on the internet, it can be overwhelming if you don't know where to begin. To help you get started, we've compiled a list of the Top 10 Free Resources for web design and development.
 
 ### 1. Codecademy
 
@@ -30,7 +30,7 @@ Looking for resources to brush-up on your code challenge skills? Codewars might 
 
 ### 5. Coursera
 
- Coursera is a for-profit educational technology company that's partnered with several universities to make some of their content available online. They offer a few free courses in engineering, computer science, and other subjects.
+Coursera is a for-profit educational technology company that's partnered with several universities to make some of their content available online. They offer a few free courses in engineering, computer science, and other subjects.
 
 ### 6. Udemy
 
