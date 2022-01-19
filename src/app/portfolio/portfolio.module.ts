@@ -8,6 +8,7 @@ import { ProjectsComponent } from './projects/projects.component';
 import { ContactComponent } from './contact/contact.component';
 import { FooterComponent } from './footer/footer.component';
 import { ReactiveFormsModule } from '@angular/forms';
+import { ScrollTopComponent } from './scroll-top/scroll-top.component';
 @NgModule({
   declarations: [
     HomeComponent,
@@ -15,6 +16,7 @@ import { ReactiveFormsModule } from '@angular/forms';
     ProjectsComponent,
     ContactComponent,
     FooterComponent,
+    ScrollTopComponent,
   ],
   imports: [
     CommonModule,
