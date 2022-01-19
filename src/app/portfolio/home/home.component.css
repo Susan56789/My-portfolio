@@ -1,27 +1,25 @@
 .min-vh-95 {
-    height: 95vh;
+  height: 95vh;
 }
 
-.hero-image{
-    width:200px;
-    height:200px;
-    border-radius: 50%;
+.hero-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
 }
 
 @media only screen and (max-width: 768px) {
-    .hero-image{
-        width:150px;
-    height:150px;
+  .hero-image {
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
-    } 
-    
-   }
-   
-   
-   @media only screen and (max-width: 320px) {
-    .hero-image{
-        width:100px;
-    height:100px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .hero-image {
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
-    } 
-   }
+  }
+}

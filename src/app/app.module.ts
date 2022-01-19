@@ -6,10 +6,10 @@ import { AppComponent } from './app.component';
 import { ScullyLibModule } from '@scullyio/ng-lib';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { CoreModule } from './core/core.module';
-import { FooterComponent } from '../app/core/components/footer/footer.component';
+import { ContactService } from './portfolio/services/contact.service';
 
 @NgModule({
-  declarations: [AppComponent, FooterComponent],
+  declarations: [AppComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
@@ -17,7 +17,7 @@ import { FooterComponent } from '../app/core/components/footer/footer.component'
     NgbModule,
     CoreModule,
   ],
-  providers: [],
+  providers: [ContactService],
   bootstrap: [AppComponent],
 })
 export class AppModule {}

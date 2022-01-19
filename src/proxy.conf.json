@@ -1,0 +1,7 @@
+{
+  "/api/*": {
+    "target": "http://mailthis.to/susanwairimu177@gmail.com/",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}

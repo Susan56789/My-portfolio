@@ -1,24 +1,35 @@
 [
-    {
-        "name": "Uwezo Academy",
-        "stack": {
-            "name": "Angular",
-            "iconClasses": "fab fa-angular"
-        },
-        "description": "An education app project from GADS2021 community project",
-        "sourceUrl": "https://github.com/Susan56789/Uwezo-Academy",
-        "previewUrl": "https://uwezo-academu.herokuapp.com/",
-        "featured": true
+  {
+    "name": "Prison Management System",
+    "stack": {
+      "name": "React",
+      "iconClasses": "fab fa-react"
     },
-    {
-        "name": "Sus-Afric Training",
-        "stack": {
-            "name": "Wordpress",
-            "iconClasses": "fab fa-wordpress"
-        },
-        "description": "An online learning website for Sustainable Africa Innovators(Sus-Afric)",
-        "sourceUrl": "",
-        "previewUrl": "https://www.elearning.sus-afric.org/",
-        "featured": true
-    }  
+    "description": "An online prison management system",
+    "sourceUrl": "https://github.com/Susan56789/prison-management-system",
+    "previewUrl": "https://prison-management-system.vercel.app",
+    "featured": true
+  },
+  {
+    "name": "Uwezo Academy",
+    "stack": {
+      "name": "Angular",
+      "iconClasses": "fab fa-angular"
+    },
+    "description": "An education app project from GADS2021 community project",
+    "sourceUrl": "https://github.com/Susan56789/Uwezo-Academy",
+    "previewUrl": "https://uwezo-academu.herokuapp.com/",
+    "featured": true
+  },
+  {
+    "name": "Sus-Afric Training",
+    "stack": {
+      "name": "Wordpress",
+      "iconClasses": "fab fa-wordpress"
+    },
+    "description": "An online learning website for Sustainable Africa Innovators(Sus-Afric)",
+    "sourceUrl": "",
+    "previewUrl": "https://www.elearning.sus-afric.org/",
+    "featured": true
+  }
 ]
