@@ -6,8 +6,7 @@ import { map } from 'rxjs';
   providedIn: 'root',
 })
 export class ContactService {
-  private api =
-    'https://fierce-bayou-79908.herokuapp.com/https://mailthis.to/susanwairimu177@gmail.com/';
+  private api = 'https://mailthis.to/susanwairimu177@gmail.com/';
 
   headers = new HttpHeaders()
     .set('Content-Type', 'text/plain, application/json')
