@@ -44,7 +44,7 @@ export class ContactComponent implements OnInit {
         location.href = '#contact';
 
         console.log(response);
-        return response;
+        // return response;
       },
       (error: any) => {
         console.warn(error.responseText);
