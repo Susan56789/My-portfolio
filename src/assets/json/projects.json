@@ -1,5 +1,17 @@
 [
   {
+    "name": "Rental House Management System",
+    "stack": {
+      "name": "React",
+      "iconClasses": "fab fa-react"
+    },
+    "description": "An online rental house management system",
+    "sourceUrl": "https://github.com/Susan56789/Rental-House-System",
+    "previewUrl": "https://rental-house-system.vercel.app",
+    "featured": true
+  },
+
+  {
     "name": "Prison Management System",
     "stack": {
       "name": "React",
