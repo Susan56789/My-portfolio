@@ -126,6 +126,7 @@ button {
   text-align: center;
   text-decoration: none;
   justify-content: center;
+  border-radius: 50%;
 }
 
 .fab:hover {
