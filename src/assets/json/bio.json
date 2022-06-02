@@ -1,23 +1,23 @@
 {
-    "firstName": "Susan",
-    "lastName": "Wairimu",
-    "intro": [
-        "I'm a software developer with a passion for web development. I am currently based in Kenya. My main focus is building fast, accessible, and beautiful websites that users enjoy.",
-        "You can have a look at some of my work here."
-    ],
-    "about": [
-    "Recent bachelor's degree recepient with a background in web design and development. ",
-    "Meticulous web developer with a passion for responsive website design and a firm believer in the mobile-first approach."
-    ],
-    "skills":[
-"JavaScript",
-  "React",
-  "HTML5",
-  "CSS",
-  "Github",
-  "Wordpress",
-  "Angular",
-  "Node.js",
-  "Typescript"
-    ]
+  "firstName": "Susan",
+  "lastName": "Wairimu",
+  "intro": [
+    "I'm a female developer with a passion for web development. I am currently based in Kenya. My main focus is building fast, accessible, and beautiful websites that users enjoy.",
+    "You can have a look at some of my work here."
+  ],
+  "about": [
+    "Computer Sciencist with a background in web design and development. ",
+    "Meticulous female developer with a passion for responsive website design and a firm believer in the mobile-first approach."
+  ],
+  "skills": [
+    "JavaScript",
+    "React",
+    "HTML5",
+    "CSS",
+    "Github",
+    "Wordpress",
+    "Angular",
+    "Node.js",
+    "Typescript"
+  ]
 }
