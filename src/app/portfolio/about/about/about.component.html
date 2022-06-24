@@ -1,12 +1,6 @@
-<div
-  class="d-flex justify-content-center vw-90 mx-auto"
-  *ngIf="bio$ | async as bio"
->
-  <div
-    *ngFor="let options of respOptions"
-    [ngClass]="options.viewClasses"
-    class="flex-column align-items-center text-center w-75"
-  >
+<div class="d-flex justify-content-center vw-90 mx-auto" *ngIf="bio$ | async as bio">
+  <div *ngFor="let options of respOptions" [ngClass]="options.viewClasses"
+    class="flex-column align-items-center text-center w-75">
     <h1 [ngClass]="options.headingClass" class="mb-5">
       <span class="font-weight-bold">About</span> Me
     </h1>
@@ -19,9 +13,7 @@
     <div>
       <div class="container px-5 py-10 mx-auto">
         <div class="text-center mb-20">
-          <h1
-            class="sm:text-4xl text-3xl font-medium title-font text-black mb-4"
-          >
+          <h1 class="sm:text-4xl text-3xl font-medium title-font text-black mb-4">
             Skills &amp; Technologies
           </h1>
           <p class="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
@@ -49,18 +41,20 @@
               <article class="badge green">
                 <div class="rounded"><i class="fab fa-node"></i></div>
               </article>
-              <article class="badge crimson">
+              <!---<article class="badge crimson">
                 <div class="rounded"><i class="fab fa-npm"></i></div>
-              </article>
+              </article>-->
               <article class="badge steel">
                 <div class="rounded"><i class="fab fa-python"></i></div>
               </article>
+              <!----
               <article class="badge pink">
                 <div class="rounded"><i class="fab fa-sass"></i></div>
               </article>
               <article class="badge rebecca">
                 <div class="rounded"><i class="fab fa-bootstrap"></i></div>
               </article>
+              -->
               <article class="badge blue">
                 <div class="rounded"><i class="fab fa-wordpress"></i></div>
               </article>
