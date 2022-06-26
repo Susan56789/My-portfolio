@@ -126,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "personal-portfolio"
+  "defaultProject": "personal-portfolio",
+  "cli": {
+    "analytics": false
+  }
 }
