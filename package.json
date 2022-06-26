@@ -47,5 +47,20 @@
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
     "typescript": "~4.7.4"
-  }
+  },
+  "workspaces": [
+    "packages\\a"
+  ],
+  "description": "This app is made with Angular .",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Susan56789/My-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Susan56789/My-portfolio/issues"
+  },
+  "homepage": "https://github.com/Susan56789/My-portfolio#readme"
 }
