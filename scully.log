@@ -220,3 +220,45 @@ Using stored unhandled routes!.
           The defaultRouteRenderer is now set to 'routeRenderer'.
        ======================================================================
 No configuration for route "/portfolio/blog/:slug" found. Skipping
+Puppeteer error while rendering ""
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "/contact"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "/projects"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "/about"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.
+
+
+
+Puppeteer error while rendering "/contact"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "/about"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "/projects"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.
+
+
+Puppeteer error while rendering ""
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.
+handleUnknownRoute: "/blog/react-vs-angular/index.html", 404:""handleUnknownRoute: "/blog/ways-to-make-money-as-a-developer/index.html", 404:""
+handleUnknownRoute: "/blog/best-resources-to-learn-programramming-for-free/index.html", 404:""
+
+Puppeteer error while rendering "/portfolio/about"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "/portfolio/contact"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.
+
+Puppeteer error while rendering "/portfolio/about"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "/portfolio/blog"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "/portfolio/blog"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.
