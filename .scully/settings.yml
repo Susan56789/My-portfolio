@@ -1,2 +1,11 @@
 identifier: k5x4tchd48m3bd07
 allowErrorCollect: true
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: personal-portfolio
+homeFolder: D:\Projects\personal-portfolio
+distFolder: dist/personal-portfolio
+outDir: D:\Projects\personal-portfolio\dist\static
+handle404: ''
