@@ -43,5 +43,16 @@
     "sourceUrl": "",
     "previewUrl": "https://www.elearning.sus-afric.org/",
     "featured": true
+  },
+  {
+    "name": "Infinity Farm",
+    "stack": {
+      "name": "Wordpress",
+      "iconClasses": "fab fa-wordpress"
+    },
+    "description": "An agribusiness website for Infinity Farm",
+    "sourceUrl": "",
+    "previewUrl": "http://infinityfarms.co.ke/",
+    "featured": true
   }
 ]
