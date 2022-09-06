@@ -6,7 +6,7 @@ import { map } from 'rxjs';
   providedIn: 'root',
 })
 export class ContactService {
-  private api = 'https://formspree.io/f/mdobeazp';
+  private api = 'https://mailthis.to/susanwairimu177@gmail.com';
 
   headers = new HttpHeaders()
     .set('Content-Type', 'text/plain, application/json')

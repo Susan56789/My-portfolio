@@ -1,5 +1,28 @@
 [
   {
+    "name": "Sus-Afric Training",
+    "stack": {
+      "name": "Wordpress",
+      "iconClasses": "fab fa-wordpress"
+    },
+    "description": "An online learning website for Sustainable Africa Innovators(Sus-Afric)",
+    "sourceUrl": "",
+    "previewUrl": "https://www.elearning.sus-afric.org/",
+    "featured": true
+  },
+  {
+    "name": "Infinity Farm",
+    "stack": {
+      "name": "Wordpress",
+      "iconClasses": "fab fa-wordpress"
+    },
+    "description": "An agribusiness website for Infinity Farm",
+    "sourceUrl": "",
+    "previewUrl": "http://infinityfarms.co.ke/",
+    "featured": true
+  }
+  ,
+  {
     "name": "Rental House Management System",
     "stack": {
       "name": "React",
@@ -32,27 +55,6 @@
     "sourceUrl": "https://github.com/Susan56789/Uwezo-Academy",
     "previewUrl": "https://uwezo-academu.herokuapp.com/",
     "featured": true
-  },
-  {
-    "name": "Sus-Afric Training",
-    "stack": {
-      "name": "Wordpress",
-      "iconClasses": "fab fa-wordpress"
-    },
-    "description": "An online learning website for Sustainable Africa Innovators(Sus-Afric)",
-    "sourceUrl": "",
-    "previewUrl": "https://www.elearning.sus-afric.org/",
-    "featured": true
-  },
-  {
-    "name": "Infinity Farm",
-    "stack": {
-      "name": "Wordpress",
-      "iconClasses": "fab fa-wordpress"
-    },
-    "description": "An agribusiness website for Infinity Farm",
-    "sourceUrl": "",
-    "previewUrl": "http://infinityfarms.co.ke/",
-    "featured": true
   }
+
 ]
