@@ -1,13 +1,13 @@
 [
   {
-    "name": "Sus-Afric Training",
+    "name": "Kenya Elections 2022",
     "stack": {
-      "name": "Wordpress",
-      "iconClasses": "fab fa-wordpress"
+      "name": "React",
+      "iconClasses": "fab fa-react"
     },
-    "description": "An online learning website for Sustainable Africa Innovators(Sus-Afric)",
-    "sourceUrl": "",
-    "previewUrl": "https://www.elearning.sus-afric.org/",
+    "description": "Web app showing results for the elections carried out on August 9 2022",
+    "sourceUrl": "https://github.com/Susan56789/elections2022",
+    "previewUrl": "https://elections2022.vercel.app",
     "featured": true
   },
   {
@@ -20,8 +20,18 @@
     "sourceUrl": "",
     "previewUrl": "http://infinityfarms.co.ke/",
     "featured": true
-  }
-  ,
+  },
+  {
+    "name": "Sus-Afric Training",
+    "stack": {
+      "name": "Wordpress",
+      "iconClasses": "fab fa-wordpress"
+    },
+    "description": "An online learning website for Sustainable Africa Innovators(Sus-Afric)",
+    "sourceUrl": "",
+    "previewUrl": "https://www.elearning.sus-afric.org/",
+    "featured": true
+  },
   {
     "name": "Rental House Management System",
     "stack": {
@@ -56,5 +66,4 @@
     "previewUrl": "https://uwezo-academu.herokuapp.com/",
     "featured": true
   }
-
 ]
