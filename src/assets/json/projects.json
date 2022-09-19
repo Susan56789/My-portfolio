@@ -65,5 +65,16 @@
     "sourceUrl": "https://github.com/Susan56789/Uwezo-Academy",
     "previewUrl": "https://uwezo-academu.herokuapp.com/",
     "featured": true
+  },
+  {
+    "name": "Facebook clone",
+    "stack": {
+      "name": "React",
+      "iconClasses": "fab fa-react"
+    },
+    "description": "A facebook clone app",
+    "sourceUrl": "https://github.com/Susan56789/Facebook-Clone",
+    "previewUrl": "https://facebook-clone-jade-beta.vercel.app",
+    "featured": true
   }
 ]
