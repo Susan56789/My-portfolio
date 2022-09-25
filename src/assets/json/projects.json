@@ -1,5 +1,16 @@
 [
   {
+    "name": "Youtube Clone",
+    "stack": {
+      "name": "React",
+      "iconClasses": "fab fa-react"
+    },
+    "description": "A youtube clone app. Fetch data from youtube api and display it in a list. User can play the video and see the details of the video.",
+    "sourceUrl": "https://github.com/Susan56789/youtube_clone",
+    "previewUrl": "https://youtube-clone-tawny-xi.vercel.app/",
+    "featured": true
+  },
+  {
     "name": "Kenya Elections 2022",
     "stack": {
       "name": "React",
