@@ -32,6 +32,7 @@
     "@scullyio/ng-lib": "^1.0.0",
     "@scullyio/scully": "^2.1.36",
     "@scullyio/scully-plugin-puppeteer": "^2.1.36",
+    "angular-dark-mode": "^3.0.2",
     "bootstrap": "^4.6.0",
     "node": "^16.13.1",
     "npm": "^8.13.1",

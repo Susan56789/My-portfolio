@@ -262,3 +262,148 @@ TimeoutError: Navigation timeout of 30000 ms exceeded
 Puppeteer error while rendering "/portfolio/blog"
 TimeoutError: Navigation timeout of 30000 ms exceeded
  we will retry rendering this page up to 3 times.
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.personal-portfolio.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.personal-portfolio.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+No configuration for route "/portfolio/blog/:slug" found. Skipping
+Puppeteer error while rendering "/about"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering ""
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "/contact"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "/projects"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.
+
+
+
+handleUnknownRoute: "/blog/best-resources-to-learn-programramming-for-free/index.html", 404:""handleUnknownRoute: "/blog/react-vs-angular/index.html", 404:""
+
+handleUnknownRoute: "/blog/ways-to-make-money-as-a-developer/index.html", 404:""
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.personal-portfolio.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.personal-portfolio.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------No configuration for route "/portfolio/blog/:slug" found. Skipping
+
+
+
+
+handleUnknownRoute: "/blog/best-resources-to-learn-programramming-for-free/index.html", 404:""handleUnknownRoute: "/blog/ways-to-make-money-as-a-developer/index.html", 404:""handleUnknownRoute: "/blog/react-vs-angular/index.html", 404:""
+
+
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.personal-portfolio.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.personal-portfolio.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------   To discover new routes in the angular app use "npm run scully -- --scanRoutes"Using stored unhandled routes!.----------------------------------No configuration for route "/portfolio/blog/:slug" found. Skipping
+
+
+
+
+handleUnknownRoute: "/blog/ways-to-make-money-as-a-developer/index.html", 404:""handleUnknownRoute: "/blog/best-resources-to-learn-programramming-for-free/index.html", 404:""handleUnknownRoute: "/blog/react-vs-angular/index.html", 404:""
+
+
+Puppeteer error while rendering "/blog/best-resources-to-learn-programramming-for-free"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "/blog/react-vs-angular"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "/blog/ways-to-make-money-as-a-developer"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.
+
+
+Puppeteer error while rendering "/blog"
+TimeoutError: Navigation timeout of 30000 ms exceeded
+ we will retry rendering this page up to 3 times.
+handleUnknownRoute: "/blog/react-vs-angular/index.html", 404:""
+handleUnknownRoute: "/blog/ways-to-make-money-as-a-developer/index.html", 404:""handleUnknownRoute: "/blog/best-resources-to-learn-programramming-for-free/index.html", 404:""
+
+handleUnknownRoute: "/blog/ways-to-make-money-as-a-developer/index.html", 404:""handleUnknownRoute: "/blog/react-vs-angular/index.html", 404:""
+
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.personal-portfolio.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.personal-portfolio.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------   To discover new routes in the angular app use "npm run scully -- --scanRoutes"Using stored unhandled routes!.----------------------------------No configuration for route "/portfolio/blog/:slug" found. Skipping
+
+
+
+
+handleUnknownRoute: "/blog/react-vs-angular/index.html", 404:""handleUnknownRoute: "/blog/best-resources-to-learn-programramming-for-free/index.html", 404:""
+
+handleUnknownRoute: "/blog/ways-to-make-money-as-a-developer/index.html", 404:""
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.personal-portfolio.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.personal-portfolio.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------No configuration for route "/portfolio/blog/:slug" found. Skipping
+
+
+
+
+handleUnknownRoute: "/blog/best-resources-to-learn-programramming-for-free/index.html", 404:""handleUnknownRoute: "/blog/react-vs-angular/index.html", 404:""handleUnknownRoute: "/blog/ways-to-make-money-as-a-developer/index.html", 404:""
+
+

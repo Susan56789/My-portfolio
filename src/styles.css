@@ -13,12 +13,24 @@ body {
 body {
   font-family: "Nunito", Arial, Verdana, Geneva, Tahoma, sans-serif;
   background: rgb(248, 237, 237)196, 185, 185)196, 185, 185);
-  background-image: radial-gradient(lightgrey 5.5%, transparent 0);
+
   background-size: 30px 30px;
 
   -webkit-animation: Animation 5s ease infinite;
   -moz-animation: Animation 5s ease infinite;
   animation: Animation 5s ease infinite;
+}
+
+body.dark-mode {
+  background-color: #000;
+  color: #fff;
+  background-image: radial-gradient(white 5.5%, transparent 0);
+}
+
+body.light-mode {
+  background-color: #fff;
+  color: #000;
+  background-image: radial-gradient(lightgrey 5.5%, transparent 0);
 }
 
 @-webkit-keyframes Animation {
