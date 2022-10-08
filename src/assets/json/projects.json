@@ -1,5 +1,16 @@
 [
   {
+    "name": "Estate Milk Limited",
+    "stack": {
+      "name": "Wordpress",
+      "iconClasses": "fab fa-wordpress"
+    },
+    "description": "A door to door milk delivery compant",
+    "sourceUrl": "",
+    "previewUrl": "http://estatemilk.co.ke/",
+    "featured": true
+  },
+  {
     "name": "Youtube Clone",
     "stack": {
       "name": "React",
