@@ -5,7 +5,7 @@
       "name": "Wordpress",
       "iconClasses": "fab fa-wordpress"
     },
-    "description": "A door to door milk delivery compant",
+    "description": "A door to door milk delivery company that delivers fresh milk daily within Nairobi.",
     "sourceUrl": "",
     "previewUrl": "http://estatemilk.co.ke/",
     "featured": true
@@ -65,7 +65,6 @@
     "previewUrl": "https://rental-house-system.vercel.app",
     "featured": true
   },
-
   {
     "name": "Prison Management System",
     "stack": {
