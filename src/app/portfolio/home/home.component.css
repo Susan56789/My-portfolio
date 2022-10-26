@@ -10,6 +10,11 @@
 
 a {
   text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: white;
 }
 
 @media only screen and (max-width: 768px) {

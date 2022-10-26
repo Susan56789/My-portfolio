@@ -22,25 +22,28 @@
         <h2 class="text-left" *ngIf="!options.useSmallerHeadings">{{ par }}</h2>
         <h5 class="text-left" *ngIf="options.useSmallerHeadings">{{ par }}</h5>
       </div>
-      <button
-        class="mt-3 mb-5 btn btn-outline-dark"
-        routerLink="projects"
-        fragment="projects">
-        See My Work
-        <i class="ml-1 fas fa-angle-right"></i>
-      </button>
-
-      <button
-        class="mt-3 mb-5 btn btn-outline-dark"
-        routerLink="projects"
-        fragment="projects">
-        <a
-          href="https://drive.google.com/file/d/1puGKmEFI8_-x4G-gOFXHcqbkXiPcMbaE/view?usp=sharing"
-          target="_blank">Download
-          CV</a>
-        <i class="ml-1 fas fa-angle-right"></i>
-      </button>
     </div>
+  </div>
+
+  <div class="d-flex flex-row justify-content-center">
+    <button
+      class="mt-3 mb-5 btn btn-outline-dark mr-3"
+      routerLink="projects"
+      fragment="projects">
+      See My Work
+      <i class="ml-1 fas fa-angle-right"></i>
+    </button>
+
+    <button
+      class="mt-3 mb-5 btn btn-outline-dark"
+      routerLink="projects"
+      fragment="projects">
+      <a
+        href="https://drive.google.com/file/d/1puGKmEFI8_-x4G-gOFXHcqbkXiPcMbaE/view?usp=sharing"
+        target="_blank">Download
+        CV</a>
+      <i class="ml-1 fas fa-angle-right"></i>
+    </button>
   </div>
 
   <div class="d-none d-md-block mt-5"></div>
