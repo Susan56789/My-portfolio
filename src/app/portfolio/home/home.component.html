@@ -1,25 +1,22 @@
 <div
   class="d-flex flex-column justify-content-center align-items-center w-100"
-  *ngIf="bio$ | async as bio"
->
+  *ngIf="bio$ | async as bio">
 
   <div
-    class="d-flex flex-column min-vh-95 justify-content-center align-items-center w-100"
-  >
-  
-    <img src="../../../assets/images/IMG_20220703_115332.jpg" class="hero-image" />
+    class="d-flex flex-column min-vh-95 justify-content-center
+    align-items-center w-100">
+
+    <img src="../../../assets/images/IMG_20220703_115332.jpg" class="hero-image"
+      />
 
     <div
       *ngFor="let options of respOptions"
       [ngClass]="options.viewClasses"
-      class="flex-column justify-content-center align-items-start w-75"
-    >
+      class="flex-column justify-content-center align-items-start w-75">
       <h1 [ngClass]="options.headingClass" class="text-left">
         Hello, 👋. My name is
-        <span class="font-weight-bold"
-          >{{ bio.firstName + "
-                    " + bio.lastName }}.</span
-        >
+        <span class="font-weight-bold">{{ bio.firstName + "
+          " + bio.lastName }}.</span>
       </h1>
       <div *ngFor="let par of bio.intro">
         <h2 class="text-left" *ngIf="!options.useSmallerHeadings">{{ par }}</h2>
@@ -28,9 +25,18 @@
       <button
         class="mt-3 mb-5 btn btn-outline-dark"
         routerLink="projects"
-        fragment="projects"
-      >
+        fragment="projects">
         See My Work
+        <i class="ml-1 fas fa-angle-right"></i>
+      </button>
+
+      <button
+        class="mt-3 mb-5 btn btn-outline-dark"
+        routerLink="projects"
+        fragment="projects">
+        <a
+          href="https://drive.google.com/file/d/1puGKmEFI8_-x4G-gOFXHcqbkXiPcMbaE/view?usp=sharing">Download
+          CV</a>
         <i class="ml-1 fas fa-angle-right"></i>
       </button>
     </div>
