@@ -8,6 +8,10 @@
   border-radius: 50%;
 }
 
+a {
+  text-decoration: none;
+}
+
 @media only screen and (max-width: 768px) {
   .hero-image {
     width: 150px;

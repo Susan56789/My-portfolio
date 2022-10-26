@@ -21,18 +21,6 @@ body {
   animation: Animation 5s ease infinite;
 }
 
-body.dark-mode {
-  background-color: #000;
-  color: #fff;
-  background-image: radial-gradient(white 5.5%, transparent 0);
-}
-
-body.light-mode {
-  background-color: #fff;
-  color: #000;
-  background-image: radial-gradient(lightgrey 5.5%, transparent 0);
-}
-
 @-webkit-keyframes Animation {
   0% {
     background-position: 10% 0%;

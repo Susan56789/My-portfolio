@@ -3,7 +3,7 @@
     "name": "Tiktok Clone",
     "stack": {
       "name": "Next JS",
-      "iconClasses": "fab fa-nextjs"
+      "iconClasses": "fab fa-react"
     },
     "description": "A tiktok clone app. Using sanity for backend and next js for frontend.",
     "sourceUrl": "https://github.com/Susan56789/tiktok_clone",
