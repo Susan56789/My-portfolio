@@ -9,7 +9,7 @@ import { ContactComponent } from './contact/contact.component';
 import { FooterComponent } from './footer/footer.component';
 import { ReactiveFormsModule } from '@angular/forms';
 import { ScrollTopComponent } from './scroll-top/scroll-top.component';
-import { DarkModeToggleComponent } from './dark-mode-toggle/dark-mode-toggle.component';
+
 @NgModule({
   declarations: [
     HomeComponent,
@@ -18,7 +18,6 @@ import { DarkModeToggleComponent } from './dark-mode-toggle/dark-mode-toggle.com
     ContactComponent,
     FooterComponent,
     ScrollTopComponent,
-    DarkModeToggleComponent,
   ],
   imports: [
     CommonModule,
