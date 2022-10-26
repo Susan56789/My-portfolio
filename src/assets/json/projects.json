@@ -1,5 +1,16 @@
 [
   {
+    "name": "Tiktok Clone",
+    "stack": {
+      "name": "Next JS",
+      "iconClasses": "fab fa-nextjs"
+    },
+    "description": "A tiktok clone app. Using sanity for backend and next js for frontend.",
+    "sourceUrl": "https://github.com/Susan56789/tiktok_clone",
+    "previewUrl": "https://tiktok-clone-sage.vercel.app/",
+    "featured": true
+  },
+  {
     "name": "Estate Milk Limited",
     "stack": {
       "name": "Wordpress",
