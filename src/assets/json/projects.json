@@ -1,5 +1,16 @@
 [
   {
+    "name": "Massawa Bar and Restaurant",
+    "stack": {
+      "name": "Wordpress",
+      "iconClasses": "fab fa-wordpress"
+    },
+    "description": "A website for Massawa Bar and Restaurant which is located in Mombasa,Kenya",
+    "sourceUrl": "",
+    "previewUrl": "https://massawabarandrestaurant.co.ke/",
+    "featured": true
+  },
+  {
     "name": "Tiktok Clone",
     "stack": {
       "name": "Next JS",
@@ -16,7 +27,7 @@
       "name": "Wordpress",
       "iconClasses": "fab fa-wordpress"
     },
-    "description": "A door to door milk delivery company that delivers fresh milk daily within Nairobi.",
+    "description": "A door to door milk delivery company that delivers fresh milk daily within Nairobi,Kenya.",
     "sourceUrl": "",
     "previewUrl": "http://estatemilk.co.ke/",
     "featured": true
