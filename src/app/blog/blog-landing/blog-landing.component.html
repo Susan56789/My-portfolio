@@ -1,23 +1,20 @@
 <div
   *ngFor="let options of respOptions"
   [ngClass]="options.viewClasses"
-  class="flex-column align-items-center text-center vw-90 mx-auto"
->
+  class="flex-column align-items-center text-center vw-90 mx-auto">
   <h1 [ngClass]="options.titleClasses" class="mb-5">
-    <span class="font-weight-bold">Susan's</span> Blog
+    <span class="font-weight-bold">Welcome </span> to the Blog !
   </h1>
   <div
     [ngClass]="{
-      'justify-content-center flex-wrap': !options.displayInColumn,
-      'flex-column align-items-center': options.displayInColumn
+    'justify-content-center flex-wrap': !options.displayInColumn,
+    'flex-column align-items-center': options.displayInColumn
     }"
-    class="d-flex vw-90"
-  >
+    class="d-flex vw-90">
     <div
       *ngFor="let page of links$ | async"
       class="card post-card m-3"
-      style="width: 18rem"
-    >
+      style="width: 18rem">
       <div class="card-img-top bg-dark">
         <img [src]="page['image_url']" [alt]="page['title']" />
       </div>
@@ -32,8 +29,7 @@
         </p>
         <a
           [routerLink]="page.route"
-          class="btn btn-outline-dark align-self-center"
-        >
+          class="btn btn-outline-dark align-self-center">
           <i class="fa-lg mr-1 far fa-eye"></i>
           Read
         </a>
