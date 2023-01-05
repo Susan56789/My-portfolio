@@ -27,6 +27,11 @@
         <p class="card-text post-description flex-grow-1">
           {{ page["description"] }}
         </p>
+        <p class="card-text post-description flex-grow-1">
+          <small>
+            {{page["date"]}}
+          </small>
+        </p>
         <a
           [routerLink]="page.route"
           class="btn btn-outline-dark align-self-center">

@@ -2,7 +2,7 @@
 title: Best Resources to Learn Programming for Free
 image_url: https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60
 description: Sites to learning coding from scratch for free
-
+date: January 9th, 2022 3:45PM
 published: true
 ---
 

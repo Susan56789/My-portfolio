@@ -2,7 +2,7 @@
 title: React vs Angular
 image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf6c7zX5hAfuUKEG0hxsl_rjEpMNZAQgEBsA&usqp=CAU
 description: Compare Angular vs React to find out which one suits your needs better.
-
+date: January 9th, 2022 3:45PM
 published: true
 ---
 
