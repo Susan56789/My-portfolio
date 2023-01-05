@@ -19,7 +19,7 @@
     "description": "A tiktok clone app. Using sanity for backend and next js for frontend.",
     "sourceUrl": "https://github.com/Susan56789/tiktok_clone",
     "previewUrl": "https://tiktok-clone-sage.vercel.app/",
-    "featured": true
+    "featured": false
   },
   {
     "name": "Estate Milk Limited",
@@ -41,7 +41,7 @@
     "description": "A youtube clone app. Fetch data from youtube api and display it in a list. User can play the video and see the details of the video.",
     "sourceUrl": "https://github.com/Susan56789/youtube_clone",
     "previewUrl": "https://youtube-clone-tawny-xi.vercel.app/",
-    "featured": true
+    "featured": false
   },
   {
     "name": "Kenya Elections 2022",
@@ -118,6 +118,6 @@
     "description": "A facebook clone app",
     "sourceUrl": "https://github.com/Susan56789/Facebook-Clone",
     "previewUrl": "https://facebook-clone-jade-beta.vercel.app",
-    "featured": true
+    "featured": false
   }
 ]
