@@ -1,10 +1,10 @@
 .post-card {
     width: 290px;
-    height: 400px;
-    box-shadow: 2px 5px 10px rgba(0,0,0,0.5);
+    height: 500px;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
-img{
+img {
     width: 200px;
     height: 200px;
 }
@@ -15,4 +15,3 @@ img{
     text-overflow: ellipsis;
     max-width: 20ch;
 }
-
