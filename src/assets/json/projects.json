@@ -1,15 +1,5 @@
 [
-  {
-    "name": "Eclipse Technologies",
-    "stack": {
-      "name": "Wordpress",
-      "iconClasses": "fab fa-wordpress"
-    },
-    "description": "An e-commerce website for selling electronics gadgets and accessories in Nairobi,Kenya",
-    "sourceUrl": "",
-    "previewUrl": "https://eclipsetechnologies.co.ke/",
-    "featured": true
-  },
+  
   {
     "name": "Massawa Bar and Restaurant",
     "stack": {
@@ -96,7 +86,7 @@
     "description": "An online prison management system",
     "sourceUrl": "https://github.com/Susan56789/prison-management-system",
     "previewUrl": "https://prison-management-system.vercel.app",
-    "featured": false
+    "featured": true
   },
   {
     "name": "Facebook clone",
