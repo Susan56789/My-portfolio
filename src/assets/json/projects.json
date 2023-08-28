@@ -1,13 +1,13 @@
 [
   {
-    "name": "Eclipse Technologies",
+    "name": "World Empire Safaris",
     "stack": {
       "name": "Wordpress",
       "iconClasses": "fab fa-wordpress"
     },
-    "description": "An e-commerce website for selling electronics gadgets and accessories in Nairobi,Kenya",
+    "description": "Tour and travel agency",
     "sourceUrl": "",
-    "previewUrl": "https://eclipsetechnologies.co.ke/",
+    "previewUrl": "https://worldempiresafaris.co.ke/",
     "featured": true
   },
   {
@@ -41,7 +41,7 @@
     "description": "A door to door milk delivery company that delivers fresh milk daily within Nairobi,Kenya.",
     "sourceUrl": "",
     "previewUrl": "http://estatemilk.co.ke/",
-    "featured": true
+    "featured": false
   },
   {
     "name": "Youtube Clone",
@@ -85,7 +85,7 @@
     "description": "An online rental house management system",
     "sourceUrl": "https://github.com/Susan56789/Rental-House-System",
     "previewUrl": "https://rental-house-system.vercel.app",
-    "featured": true
+    "featured": false
   },
   {
     "name": "Prison Management System",
