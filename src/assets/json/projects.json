@@ -96,7 +96,7 @@
     "description": "An online prison management system",
     "sourceUrl": "https://github.com/Susan56789/prison-management-system",
     "previewUrl": "https://prison-management-system.vercel.app",
-    "featured": false
+    "featured": true
   },
   {
     "name": "Facebook clone",
@@ -106,7 +106,7 @@
     },
     "description": "A facebook clone app",
     "sourceUrl": "https://github.com/Susan56789/Facebook-Clone",
-    "previewUrl": "https://facebook-clone-jade-beta.vercel.app",
+    "previewUrl": "https://facebook244.netlify.app/",
     "featured": true
   }
 ]
