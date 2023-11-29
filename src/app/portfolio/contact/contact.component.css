@@ -8,7 +8,7 @@
 .container .content {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 .container .content .left-side {
   display: flex;

@@ -1,4 +1,14 @@
-[
+[{
+  "name": "TrendTrove",
+  "stack": {
+    "name": "Vue JS",
+    "iconClasses": "fa-brands fa-vuejs"
+  },
+  "description": "E-commerce website",
+  "sourceUrl": "https://github.com/Susan56789/trendtrove",
+  "previewUrl": "https://trendtrove.vercel.app/",
+  "featured": true
+},
   {
     "name": "World Empire Safaris",
     "stack": {
@@ -21,17 +31,7 @@
     "previewUrl": "https://massawabarandrestaurant.co.ke/",
     "featured": true
   },
-  {
-    "name": "Tiktok Clone",
-    "stack": {
-      "name": "Next JS",
-      "iconClasses": "fab fa-react"
-    },
-    "description": "A tiktok clone app. Using sanity for backend and next js for frontend.",
-    "sourceUrl": "https://github.com/Susan56789/tiktok_clone",
-    "previewUrl": "https://tiktok-clone-sage.vercel.app/",
-    "featured": false
-  },
+  
   {
     "name": "Estate Milk Limited",
     "stack": {
@@ -43,17 +43,7 @@
     "previewUrl": "http://estatemilk.co.ke/",
     "featured": false
   },
-  {
-    "name": "Youtube Clone",
-    "stack": {
-      "name": "React",
-      "iconClasses": "fab fa-react"
-    },
-    "description": "A youtube clone app. Fetch data from youtube api and display it in a list. User can play the video and see the details of the video.",
-    "sourceUrl": "https://github.com/Susan56789/youtube_clone",
-    "previewUrl": "https://youtube-clone-tawny-xi.vercel.app/",
-    "featured": false
-  },
+  
   {
     "name": "Kenya Elections 2022",
     "stack": {
@@ -97,16 +87,6 @@
     "sourceUrl": "https://github.com/Susan56789/prison-management-system",
     "previewUrl": "https://prison-management-system.vercel.app",
     "featured": true
-  },
-  {
-    "name": "Facebook clone",
-    "stack": {
-      "name": "React",
-      "iconClasses": "fab fa-react"
-    },
-    "description": "A facebook clone app",
-    "sourceUrl": "https://github.com/Susan56789/Facebook-Clone",
-    "previewUrl": "https://facebook244.netlify.app/",
-    "featured": false
   }
+  
 ]
