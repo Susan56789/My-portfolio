@@ -2,7 +2,7 @@
   "name": "TrendTrove",
   "stack": {
     "name": "Vue JS",
-    "iconClasses": "fa-brands fa-vuejs"
+    "iconClasses": "fab fa-vuejs"
   },
   "description": "E-commerce website",
   "sourceUrl": "https://github.com/Susan56789/trendtrove",
