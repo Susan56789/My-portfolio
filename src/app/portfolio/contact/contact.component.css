@@ -168,7 +168,14 @@ button {
   background-color: green;
   color: white;
 }
-
+.fa-stack-overflow {
+  background-color: black;
+  color: darkgoldenrod;
+}
+.fa-medium {
+  background-color: black;
+  color: white;
+}
 @media only screen and (max-width: 950px) {
   .container {
     width: 90%;
