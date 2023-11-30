@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-
+Disallow:
 Sitemap: https://susanwairimu.netlify.app/sitemap.xml
