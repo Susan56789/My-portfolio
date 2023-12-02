@@ -20,29 +20,8 @@
     "previewUrl": "https://worldempiresafaris.co.ke/",
     "featured": true
   },
-  {
-    "name": "Massawa Bar and Restaurant",
-    "stack": {
-      "name": "Wordpress",
-      "iconClasses": "fab fa-wordpress"
-    },
-    "description": "A website for Massawa Bar and Restaurant which is located in Mombasa,Kenya",
-    "sourceUrl": "",
-    "previewUrl": "https://massawabarandrestaurant.co.ke/",
-    "featured": true
-  },
   
-  {
-    "name": "Estate Milk Limited",
-    "stack": {
-      "name": "Wordpress",
-      "iconClasses": "fab fa-wordpress"
-    },
-    "description": "A door to door milk delivery company that delivers fresh milk daily within Nairobi,Kenya.",
-    "sourceUrl": "",
-    "previewUrl": "http://estatemilk.co.ke/",
-    "featured": false
-  },
+  
   
   {
     "name": "Kenya Elections 2022",
@@ -55,17 +34,7 @@
     "previewUrl": "https://elections2022.vercel.app",
     "featured": true
   },
-  {
-    "name": "Infinity Farm",
-    "stack": {
-      "name": "Wordpress",
-      "iconClasses": "fab fa-wordpress"
-    },
-    "description": "An agribusiness website for Infinity Farm",
-    "sourceUrl": "",
-    "previewUrl": "http://infinityfarms.co.ke/",
-    "featured": true
-  },
+  
   {
     "name": "Rental House Management System",
     "stack": {
