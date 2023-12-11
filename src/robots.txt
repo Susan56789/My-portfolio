@@ -1,4 +1,6 @@
 User-agent: *
-Allow: /
-Disallow:
+Disallow: /private/
+Disallow: /temporary/
+Allow: /public/
+Crawl-delay: 10
 Sitemap: https://susanwairimu.netlify.app/sitemap.xml
