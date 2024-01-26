@@ -1,7 +1,30 @@
-[{
+[
+  {
+    "name": "Queen's Collection",
+    "stack": {
+      "name": "Vue JS",
+      "iconClasses": "fab fa-vuejs"
+    },
+    "description": "Responsive e-commerce application",
+    "sourceUrl": "https://github.com/Susan56789/queens-collection",
+    "previewUrl": "https://queenscollection.vercel.app/",
+    "featured": true
+  },
+  {
+    "name": "Quirkweb Studios",
+    "stack": {
+      "name": "Vue JS",
+      "iconClasses": "fab fa-vuejs"
+    },
+    "description": "Responsive web application",
+    "sourceUrl": "https://github.com/Susan56789/quirkweb-studios",
+    "previewUrl": "https://quirkwebstudios.netlify.app/",
+    "featured": true
+  },
+  {
   "name": "TrendTrove",
   "stack": {
-    "name": "Vue JS",
+    "name": "Vue JS, MySQL",
     "iconClasses": "fab fa-vuejs"
   },
   "description": "E-commerce website",
@@ -44,7 +67,7 @@
     "description": "An online rental house management system",
     "sourceUrl": "https://github.com/Susan56789/Rental-House-System",
     "previewUrl": "https://rental-house-system.vercel.app",
-    "featured": true
+    "featured": false
   },
   {
     "name": "Prison Management System",
@@ -55,7 +78,7 @@
     "description": "An online prison management system",
     "sourceUrl": "https://github.com/Susan56789/prison-management-system",
     "previewUrl": "https://prison-management-system.vercel.app",
-    "featured": true
+    "featured": false
   }
   
 ]
