@@ -2,7 +2,7 @@
   {
     "name": "Queen's Collection",
     "stack": {
-      "name": "Vue JS",
+      "name": "Vue JS, PostgreSQL",
       "iconClasses": "fab fa-vuejs"
     },
     "description": "Responsive e-commerce application",
