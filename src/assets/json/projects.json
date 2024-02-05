@@ -1,5 +1,16 @@
 [
   {
+    "name": "Jebta Steel Works",
+    "stack": {
+      "name": "Wordpress",
+      "iconClasses": "fab fa-wordpress"
+    },
+    "description": "Construction Company",
+    "sourceUrl": "",
+    "previewUrl": "https://jebtasteelworks.co.ke/",
+    "featured": true
+  },
+  {
     "name": "Queen's Collection",
     "stack": {
       "name": "Vue JS, PostgreSQL",
