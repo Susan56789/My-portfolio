@@ -1,5 +1,16 @@
 [
   {
+    "name": "Urban Appliances",
+    "stack": {
+      "name": "Wordpress",
+      "iconClasses": "fab fa-wordpress"
+    },
+    "description": "Online electronics shop in Kenya.",
+    "sourceUrl": "",
+    "previewUrl": "https://www.urbanappliances.co.ke/",
+    "featured": true
+  },
+  {
     "name": "Jebta Steel Works",
     "stack": {
       "name": "Wordpress",
