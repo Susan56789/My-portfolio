@@ -1,5 +1,27 @@
 [
   {
+    "name": "DrivExpert Automotive",
+    "stack": {
+      "name": "Vue JS, PostgreSQL",
+      "iconClasses": "fab fa-vuejs"
+    },
+    "description": "Online Car sales and garage",
+    "sourceUrl": "https://github.com/Susan56789/drivexpert",
+    "previewUrl": "https://drivexpert.vercel.app/",
+    "featured": true
+  },
+  {
+    "name": "HillRock Link Enterprises",
+    "stack": {
+      "name": "Wordpress",
+      "iconClasses": "fab fa-wordpress"
+    },
+    "description": "Online electronics shop in Kenya.",
+    "sourceUrl": "",
+    "previewUrl": "https://hillrocklink.co.ke/",
+    "featured": true
+  },
+  {
     "name": "Urban Appliances",
     "stack": {
       "name": "Wordpress",
