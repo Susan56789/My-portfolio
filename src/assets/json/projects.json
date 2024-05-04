@@ -1,5 +1,27 @@
 [
   {
+    "name": "Content Optics",
+    "stack": {
+      "name": "Wordpress",
+      "iconClasses": "fab fa-wordpress"
+    },
+    "description": " Content and SEO Agency",
+    "sourceUrl": "",
+    "previewUrl": "https://contentoptics.com/",
+    "featured": true
+  },
+  {
+    "name": "Jubilee Engineering Ltd",
+    "stack": {
+      "name": "Wordpress",
+      "iconClasses": "fab fa-wordpress"
+    },
+    "description": " Online store dealing with supply and instalation of Fire Products",
+    "sourceUrl": "",
+    "previewUrl": "https://jubileeengineeringlimited.co.ke/",
+    "featured": true
+  },
+  {
     "name": "DrivExpert Automotive",
     "stack": {
       "name": "Vue JS, PostgreSQL",
