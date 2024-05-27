@@ -1,5 +1,16 @@
 [
   {
+    "name": "Flixxit",
+    "stack": {
+      "name": "React, Mongo DB",
+      "iconClasses": "fab fa-react"
+    },
+    "description": "Web app that allows users to browse movies as well as play it",
+    "sourceUrl": "https://github.com/Susan56789/flixxit",
+    "previewUrl": "https://flixxit-five.vercel.app/",
+    "featured": true
+  },
+  {
     "name": "Content Optics",
     "stack": {
       "name": "Wordpress",
